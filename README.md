@@ -1,5 +1,6 @@
 # Symfony5 Docker Development Stack
-This is a lightweight stack based on Alpine Linux for running Symfony5 into Docker containers using docker-compose.  
+This is a lightweight stack based on Alpine Linux for running Symfony5 into Docker containers using docker-compose.
+
 [![Build Status](https://travis-ci.org/coloso/symfony-docker.svg?branch=master)](https://travis-ci.org/coloso/symfony-docker)
 
 For PHP8 use the following branch: https://github.com/coloso/symfony-docker/tree/php8-dev  
